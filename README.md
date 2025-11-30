@@ -1,4 +1,6 @@
-# github-profile-summary-cards-example
+# Hi! I'm Salmaan1
+
+Computer Science New Grad || Full Stack Engineer
 
 :star: [Tutorial](https://github.com/SalmaanShire365/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
 
