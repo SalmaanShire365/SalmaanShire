@@ -1,4 +1,4 @@
-# Hi! I'm Salmaan1
+# Hi! I'm Salmaan!
 
 Computer Science New Grad || Full Stack Engineer
 
